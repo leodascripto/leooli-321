@@ -41,14 +41,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leooli-321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooli-321&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
----
-
 ### 📲 Onde me encontrar:
 
 <div> 
